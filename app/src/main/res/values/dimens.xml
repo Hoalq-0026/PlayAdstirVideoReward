@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="middlePadding">20dp</dimen>
+    <dimen name="littlePadding">5dp</dimen>
+    <dimen name="textPadding">8dp</dimen>
+    <dimen name="smallText">12dp</dimen>
+    <dimen name="text">14dp</dimen>
+    <dimen name="logo">50dp</dimen>
+    <dimen name="point">30dp</dimen>
+    <dimen name="pointText">30dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
