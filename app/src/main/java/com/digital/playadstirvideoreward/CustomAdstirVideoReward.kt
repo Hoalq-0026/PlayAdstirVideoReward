@@ -1,10 +1,9 @@
-package jp.united.framgia
+package com.digital.playadstirvideoreward
 
 import android.app.Activity
 import com.ad_stir.interstitial.AdstirVideoAds
 import com.ad_stir.videoreward.AdstirVideoReward
 import com.ad_stir.videoreward.AdstirVideoRewardListener
-import com.digital.playadstirvideoreward.R
 
 class CustomAdstirVideoReward private constructor(private val activity: Activity) {
 

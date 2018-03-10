@@ -6,9 +6,6 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
-import jp.united.framgia.CallbackVideoRewardListener
-import jp.united.framgia.CustomAdstirVideoReward
-
 
 class MainActivity : AppCompatActivity() {
 

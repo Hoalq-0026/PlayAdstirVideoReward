@@ -1,4 +1,4 @@
-package jp.united.framgia
+package com.digital.playadstirvideoreward
 
 /**
  * Created by le.quang.hoa on 2/27/18.
